@@ -1,0 +1,3 @@
+C:/Users/82107/Desktop/Fore-head code/210713_Minimum-Heap_MKH/cmake-build-debug/CMakeFiles/210713_Minimum_Heap_MKH.dir
+C:/Users/82107/Desktop/Fore-head code/210713_Minimum-Heap_MKH/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/82107/Desktop/Fore-head code/210713_Minimum-Heap_MKH/cmake-build-debug/CMakeFiles/rebuild_cache.dir
